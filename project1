@@ -1,0 +1,14 @@
+new AppBar(
+        centerTitle: true,
+//        backgroundColor: Color(0xFF0077ED),
+        elevation: 0.0,
+        title: new Text(
+            "DASHBOARD",
+            style: const TextStyle(
+                color:  const Color(0xffffffff),
+                fontWeight: FontWeight.w500,
+                fontFamily: "Roboto",
+                fontStyle:  FontStyle.normal,
+                fontSize: 19.0
+            )),
+      )
